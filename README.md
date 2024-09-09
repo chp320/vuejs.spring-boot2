@@ -87,3 +87,11 @@ npm ERR! gyp ERR! stack Error: Can't find Python executable "python", you can se
 ```
 $ vue create front-end
 ```
+
+#### 호환성
+- node.js@18.20.4
+- eslint@7.0.0
+- eslint-plugin-vue@7.0.0
+- eslint-webpack-plugin@2.5.4
+- sass-loader@10.2.1 (from.12.6.0)
+- 
