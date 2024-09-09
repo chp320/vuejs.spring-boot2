@@ -89,9 +89,14 @@ $ vue create front-end
 ```
 
 #### 호환성
-- node.js@18.20.4
+- node.js@16.20.2
+- npm@8.19.4
 - eslint@7.0.0
 - eslint-plugin-vue@7.0.0
 - eslint-webpack-plugin@2.5.4
-- sass-loader@10.2.1 (from.12.6.0)
-- 
+- @vue/cli-plugin-eslint@3.0.1
+- @vue/eslint-config-standard@4.0.0
+- bable-eslint@10.0.1
+- sass-loader@12.6.0
+- chokidar@3.5.3
+- fsevents@2.3.2
