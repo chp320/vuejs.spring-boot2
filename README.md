@@ -100,3 +100,6 @@ $ vue create front-end
 - sass-loader@12.6.0
 - chokidar@3.5.3
 - fsevents@2.3.2
+
+##### 참고
+- https://github.com/wikibook/spring-vuejs
